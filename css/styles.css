@@ -4,12 +4,16 @@
   color: white;
   text-align: center;
   padding: 10px;
-  font-size: 14px;
+  font-size: 20px;
 }
 
 /* Navegação */
 nav.navbar {
   background-color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  padding-right: 5em !important;
+  padding-left: 5em !important;
 }
 
 /* Estilização do carrossel */
